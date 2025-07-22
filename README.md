@@ -103,4 +103,4 @@ This project is intended for **educational and portfolio showcase purposes**. No
 
 👨‍💼 **Rohit Lakha**  
 📍 Data Analyst | BI Developer | SQL & Power BI Enthusiast  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/rohitlakha)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rohit-lakha/)  
