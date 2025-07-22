@@ -55,8 +55,9 @@ To design an end-to-end business intelligence solution that:
 
 ## 🖼 Dashboard Previews
 
-![Dashboard Preview 1](./Assets/dashboard_summary_1.png)
-![Dashboard Preview 2](./Assets/dashboard_summary_2.png)
+![Dashboard Design 1](./Assets/dashboard_summary_1.png)
+![Dashboard Preview 2](./Assets/dashboard_overview.png)
+![Dashboard Preview 2](./Assets/dashboard_details.png)
 
 ---
 
@@ -135,10 +136,10 @@ To design an end-to-end business intelligence solution that:
 
 ---
 
-## 🖼 Dashboard Previews
+## 🖼 Dashboard Designs
 
-![Dashboard Preview 1](./Assets/dashboard_summary_1.png)
-![Dashboard Preview 2](./Assets/dashboard_summary_2.png)
+![Dashboard Design 1](./Assets/dashboard_summary_1.png)
+![Dashboard design 2](./Assets/dashboard_summary_2.png)
 
 ---
 
