@@ -21,9 +21,6 @@ To design a complete **business intelligence solution** that:
 ### 🔹 Summary Page
 ![Dashboard Design 1](./Assets/dashboard_summary_1.png)
 
-### 🔹 Summary Page – Alternate Theme
-![Dashboard Design 2](./Assets/dashboard_summary_2.png)
-
 ### 🔹 Overview Page
 ![Dashboard Overview](./Assets/dashboard_overview.png)
 
