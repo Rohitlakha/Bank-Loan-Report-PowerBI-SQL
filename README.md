@@ -1,4 +1,4 @@
-# 💳 Bank Loan Analysis Dashboard – Power BI + SQL Server
+# 💳 Bank Loan Analysis Dashboard – Power BI + SQL Serve
 
 This project presents a professional **Bank Loan Report Dashboard** built using **Power BI**, powered by data from **Microsoft SQL Server**. It provides a comprehensive view of loan applications, funding, defaults, and key performance indicators — optimized for insightful business decision-making.
 
