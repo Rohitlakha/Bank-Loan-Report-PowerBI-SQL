@@ -1,4 +1,4 @@
-# 💳 Bank Loan Analysis Dashboard – Power BI + SQL Serve
+# 💳 Bank Loan Analysis Dashboard – Power BI + SQL Server
 
 ![Status](https://img.shields.io/badge/Status-InProgress-yellow?style=flat) ![Power BI](https://img.shields.io/badge/BI-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  ![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  ![DAX](https://img.shields.io/badge/Language-DAX-0078D4?style=flat&logo=powerbi&logoColor=white)  ![Python](https://img.shields.io/badge/Planned-Python-3776AB?style=flat&logo=python&logoColor=white)  ![Excel](https://img.shields.io/badge/Data-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)  ![Educational](https://img.shields.io/badge/UseCase-Educational-brightgreen?style=flat)
 
